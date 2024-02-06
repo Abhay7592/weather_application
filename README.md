@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-![alt text]([http://url/to/img.png](https://github.com/Abhay7592/weather_application/blob/final_app/lib/Images/image1.png))
+![alt text](https://github.com/Abhay7592/weather_application/blob/final_app/lib/Images/image1.png)
 
 
 This project is a starting point for a Flutter application.
